@@ -62,6 +62,6 @@
 [instagram]: https://instagram.com/jaykavaofficial
 [telegram]: https://t.me/jaykavaofficial
 [facebook]: https://facebook.com/jaykavadz
-[snapchat]: https://snapchat.com/jaykavaofficial
+[snapchat]: https://snapchat.com/add/jaykavaofficial
 
 
