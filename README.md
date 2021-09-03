@@ -56,6 +56,13 @@
 [![jaykavaofficial](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
 [![jaykavadz](https://img.icons8.com/fluent/48/000000/facebook-new.png)][facebook]
 [![jaykavaofficial](https://img.icons8.com/fluent/48/000000/snapchat.png)][snapchat]
+[![jaykavaofficial](https://img.icons8.com/fluent/48/000000/spotify.png)][spotify]
+[![jaykavaofficial](https://img.icons8.com/ios/50/000000/jiosaavn.png)][jiosaavn]
+[![jaykavaofficial](https://img.icons8.com/fluency/48/000000/apple-music.png)][applemusic]
+[![jaykavaofficial](https://img.icons8.com/color/48/000000/youtube-play.png)][youtube]
+[![jaykavaofficial](https://img.icons8.com/fluency/48/000000/linkedin.png)][linkedin]
+
+
 
 
 [twitter]: https://twitter.com/jaykavaofficial
@@ -63,5 +70,10 @@
 [telegram]: https://t.me/jaykavaofficial
 [facebook]: https://facebook.com/jaykavadz
 [snapchat]: https://snapchat.com/add/jaykavaofficial
+[spotify]: https://open.spotify.com/artist/3BsJIYL15XlcTao4V00kjx
+[jiosaavn]: https://www.jiosaavn.com/artist/jay-kava-/oe8bPmevgb4_
+[applemusic]: https://artists.apple.com/a/artist/1516101022
+[youtube]: https://youtube.com/jaykava
+[linkedin]: https://www.linkedin.com/in/jaykava/
 
 
