@@ -1,14 +1,19 @@
 <h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Jay Kava</h1>
 
+[![Twitter: Jay Kava](https://img.shields.io/twitter/follow/jaykavaofficial?style=social)](https://twitter.com/jaykavaofficial)
+[![Linkedin: Jay Kava](https://img.shields.io/badge/-jaykava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaykava/)](https://www.linkedin.com/in/jaykava/)
+[![GitHub jaykava](https://img.shields.io/github/followers/jaykava?label=follow&style=social)](https://github.com/jaykava)
+
+![](https://visitor-badge.glitch.me/badge?page_id=jaykava.jaykava)
+
+
 ## About Me:
-- Currently learning React, JavaScript & Web Dev.
+- Currently learning React Js, JavaScript & Web Dev.
 
 - Speaking Languages:
     - English
     - Hindi
     - Gujarati
-
-<p align="left"> <a href="https://github.com/jaykava"><img src="https://komarev.com/ghpvc/?username=jaykava&label=Profile%20views&color=0e75b6&style=flat" alt="jaykava" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
