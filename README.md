@@ -4,11 +4,16 @@
 [![Linkedin: Jay Kava](https://img.shields.io/badge/-jaykava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaykava/)](https://www.linkedin.com/in/jaykava/)
 [![GitHub jaykava](https://img.shields.io/github/followers/jaykava?label=follow&style=social)](https://github.com/jaykava)
 
-![](https://visitor-badge.glitch.me/badge?page_id=jaykava.jaykava)
-
-
 ## About Me:
-- Currently learning React Js, JavaScript & Web Dev.
+Hi, I’m Jay Kava, a passionate Ruby on Rails developer with over 3.9+ years of experience building scalable, intuitive, and high-impact web applications. My journey spans diverse industries including shopping, event management, apparel systems, and HRMS platforms. What drives me is the joy of solving real-world problems using clean code, thoughtful design, and open-source technologies.
+
+I specialise in full-stack development, particularly in Ruby on Rails, and have strong experience in integrating APIs (Stripe, WhatsApp, and Google Maps), as well as crafting user-centric UIs with HAML, Bootstrap, and JavaScript libraries such as Stimulus, Vue.js, and Chart.js. I’m also deeply familiar with background jobs (Sidekiq), testing (RSpec), and cloud services, such as AWS. From converting Figma designs into responsive views to optimising SQL queries and data migrations, I take pride in delivering robust, production-ready solutions.
+
+I've collaborated with clients from the USA, Europe and INDIA.
+
+I believe in lifelong learning, clean code, and cross-functional collaboration. I thrive in agile teams, and I’m always eager to take ownership of challenges that push me to grow technically and professionally.
+
+Apart from work, I love creating music and songs as a hobby, and I truly enjoy it.
 
 - Speaking Languages:
     - English
@@ -45,13 +50,6 @@
     <summary>Languages</summary>
     <br/>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-</details>
-
-<details>
-    <summary>Servers & Hosts</summary>
-    <br/>
-<p align="left"> <a href="https://github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/Thomas-George-T/Thomas-George-T/raw/master/assets/aws.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 
 </details>
 
