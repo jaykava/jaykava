@@ -1,11 +1,11 @@
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Jay Kava</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Jay Kava </h1>
 
+[![LinkedIn: Jay Kava](https://img.shields.io/badge/LinkedIn-Jay%20Kava-blue?logo=linkedin)](https://www.linkedin.com/in/jaykava/)
+[![GitHub: jaykava](https://img.shields.io/badge/GitHub-jaykava-181717?logo=github&style=social)](https://github.com/jaykava)
 [![Twitter: Jay Kava](https://img.shields.io/twitter/follow/jaykavaofficial?style=social)](https://twitter.com/jaykavaofficial)
-[![Linkedin: Jay Kava](https://img.shields.io/badge/-jaykava-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaykava/)](https://www.linkedin.com/in/jaykava/)
-[![GitHub jaykava](https://img.shields.io/github/followers/jaykava?label=follow&style=social)](https://github.com/jaykava)
 
 ## About Me:
-Hi, I’m Jay Kava, a passionate Ruby on Rails developer with over 3.9+ years of experience building scalable, intuitive, and high-impact web applications. My journey spans diverse industries including shopping, event management, apparel systems, and HRMS platforms. What drives me is the joy of solving real-world problems using clean code, thoughtful design, and open-source technologies.
+Hi, I’m Jay Kava, a passionate **Ruby on Rails developer** with over **4 years** of experience building scalable, intuitive, and high-impact web applications. My journey spans diverse industries including shopping, event management, apparel systems, and HRMS platforms. What drives me is the joy of solving real-world problems using clean code, thoughtful design, and open-source technologies.
 
 I specialise in full-stack development, particularly in Ruby on Rails, and have strong experience in integrating APIs (Stripe, WhatsApp, and Google Maps), as well as crafting user-centric UIs with HAML, Bootstrap, and JavaScript libraries such as Stimulus, Vue.js, and Chart.js. I’m also deeply familiar with background jobs (Sidekiq), testing (RSpec), and cloud services, such as AWS. From converting Figma designs into responsive views to optimising SQL queries and data migrations, I take pride in delivering robust, production-ready solutions.
 
@@ -15,45 +15,84 @@ I believe in lifelong learning, clean code, and cross-functional collaboration. 
 
 Apart from work, I love creating music and songs as a hobby, and I truly enjoy it.
 
-- Speaking Languages:
-    - English
-    - Hindi
-    - Gujarati
 
-<details>
-  <summary>GitHub Stats</summary>
-  <br/>
-<p align="left"> <a href="https://github.com/jaykava"><img src="https://github-profile-trophy.vercel.app/?username=jaykava" alt="jaykava" /></a> </p>
+## Technical Skills
 
-</details>
+<p align="left"> 
+<!-- Ruby -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaykava&show_icons=true&locale=en" alt="jaykava" /></p>
+<!-- Rails -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
 
-<details>
-    <summary>Top Languages</summary>
-    <br/>
+<!-- JavaScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykava)](https://github.com/jaykava)
-  
-### Contribution Graph:
 
-<p align="center">
-  <a href="https://github.com/jaykava">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykava#version3"/>
-  </a>
+<!-- PostgreSQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+
+<!-- MySQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40" />
+
+<!-- HTML -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+<!-- CSS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+          
+<!-- jQuery -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
+
+<!-- Redis -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+
+<!-- Bootstrap -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+
+<!-- Jira -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+
+<!-- Linux -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
+<!-- Docker -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+
+<!-- Git -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/turbo/turbo-original.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node-js" width="40" height="40" />          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="nginx" width="40" height="40" />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original-wordmark.svg" width="40" height="40" />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width="40" height="40" />
+          
+          
 </p>
-<a href="https://github.com/jaykava"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaykava&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-</details>
+## Speaking Languages:
+- English
+- Hindi
+- Gujarati
 
-<details>
-    <summary>Languages</summary>
-    <br/>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-</details>
-
-### Follow on:
+## Follow More:
 [![jaykavaofficial](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
 [![jaykavaofficial](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
 [![jaykavaofficial](https://img.icons8.com/fluent/48/000000/telegram-app.png)][telegram]
@@ -64,7 +103,6 @@ Apart from work, I love creating music and songs as a hobby, and I truly enjoy i
 [![jaykavaofficial](https://img.icons8.com/fluency/48/000000/apple-music.png)][applemusic]
 [![jaykavaofficial](https://img.icons8.com/color/48/000000/youtube-play.png)][youtube]
 [![jaykavaofficial](https://img.icons8.com/fluency/48/000000/linkedin.png)][linkedin]
-
 
 
 
